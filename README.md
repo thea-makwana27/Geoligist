@@ -1,1 +1,1 @@
-# Geoligist
+# Geologist
